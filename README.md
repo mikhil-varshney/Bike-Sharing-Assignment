@@ -3,9 +3,11 @@ You are required to model the demand for shared bikes with the available indepen
 
 # General Information
 Aanalysis and prediction done using Linear Regression.
+
 Several plots for better visualization and checking dependency of target variable wrt predictors.
 
 # Conclusions
 
 R2 score for train data 0.829
+
 R2 score for test data 0.809
